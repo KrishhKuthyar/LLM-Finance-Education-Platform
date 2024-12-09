@@ -102,10 +102,10 @@ This will display all available commands.
 
 ## Copyright
 
-&copy; 2024 Georgia State University. This application was developed by Rohith Ganni and is proprietary to Georgia State University. Unauthorized distribution or copying of this code is prohibited.
+&copy; 2024 Georgia State University. This application was developed by Rohith Ganni & Bala Kuthyaru and is proprietary to Georgia State University. Unauthorized distribution or copying of this code is prohibited.
 
 ---
 
-**Developed By:** Georgia State University - Rohith Ganni
-**Contact:** rohithganni79@gmail.com
+**Developed By:** Georgia State University - Rohith Ganni, Bala Kuthyaru
+**Contact:** rohithganni79@gmail.com, kgsdbalakrishn@gmail.com
 
